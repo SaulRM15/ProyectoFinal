@@ -1,0 +1,16 @@
+C:\Fide\Programación Avanzada\ProyectoFinal\ProyectoFinal\ProyectoFinal.Application\bin\Debug\net8.0\ProyectoFinal.Application.deps.json
+C:\Fide\Programación Avanzada\ProyectoFinal\ProyectoFinal\ProyectoFinal.Application\bin\Debug\net8.0\ProyectoFinal.Application.dll
+C:\Fide\Programación Avanzada\ProyectoFinal\ProyectoFinal\ProyectoFinal.Application\bin\Debug\net8.0\ProyectoFinal.Application.pdb
+C:\Fide\Programación Avanzada\ProyectoFinal\ProyectoFinal\ProyectoFinal.Application\bin\Debug\net8.0\ProyectoFinal.Dominio.dll
+C:\Fide\Programación Avanzada\ProyectoFinal\ProyectoFinal\ProyectoFinal.Application\bin\Debug\net8.0\ProyectoFinal.Dominio.pdb
+C:\Fide\Programación Avanzada\ProyectoFinal\ProyectoFinal\ProyectoFinal.Application\obj\Debug\net8.0\ProyectoFinal.Application.csproj.AssemblyReference.cache
+C:\Fide\Programación Avanzada\ProyectoFinal\ProyectoFinal\ProyectoFinal.Application\obj\Debug\net8.0\ProyectoFinal.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Fide\Programación Avanzada\ProyectoFinal\ProyectoFinal\ProyectoFinal.Application\obj\Debug\net8.0\ProyectoFinal.Application.AssemblyInfoInputs.cache
+C:\Fide\Programación Avanzada\ProyectoFinal\ProyectoFinal\ProyectoFinal.Application\obj\Debug\net8.0\ProyectoFinal.Application.AssemblyInfo.cs
+C:\Fide\Programación Avanzada\ProyectoFinal\ProyectoFinal\ProyectoFinal.Application\obj\Debug\net8.0\ProyectoFinal.Application.csproj.CoreCompileInputs.cache
+C:\Fide\Programación Avanzada\ProyectoFinal\ProyectoFinal\ProyectoFinal.Application\obj\Debug\net8.0\Proyecto.6296CC4D.Up2Date
+C:\Fide\Programación Avanzada\ProyectoFinal\ProyectoFinal\ProyectoFinal.Application\obj\Debug\net8.0\ProyectoFinal.Application.dll
+C:\Fide\Programación Avanzada\ProyectoFinal\ProyectoFinal\ProyectoFinal.Application\obj\Debug\net8.0\refint\ProyectoFinal.Application.dll
+C:\Fide\Programación Avanzada\ProyectoFinal\ProyectoFinal\ProyectoFinal.Application\obj\Debug\net8.0\ProyectoFinal.Application.pdb
+C:\Fide\Programación Avanzada\ProyectoFinal\ProyectoFinal\ProyectoFinal.Application\obj\Debug\net8.0\ref\ProyectoFinal.Application.dll
+C:\Fide\Programación Avanzada\ProyectoFinal\ProyectoFinal\ProyectoFinal.Application\obj\Debug\net8.0\ProyectoFinal.Application.sourcelink.json

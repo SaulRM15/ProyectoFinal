@@ -1,0 +1,16 @@
+C:\Fide\Programación Avanzada\ProyectoFinal\ProyectoFinal\ProyectoFinal.Infraestructura\obj\Debug\net8.0\ProyectoFinal.Infraestructura.csproj.AssemblyReference.cache
+C:\Fide\Programación Avanzada\ProyectoFinal\ProyectoFinal\ProyectoFinal.Infraestructura\obj\Debug\net8.0\ProyectoFinal.Infraestructura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Fide\Programación Avanzada\ProyectoFinal\ProyectoFinal\ProyectoFinal.Infraestructura\obj\Debug\net8.0\ProyectoFinal.Infraestructura.AssemblyInfoInputs.cache
+C:\Fide\Programación Avanzada\ProyectoFinal\ProyectoFinal\ProyectoFinal.Infraestructura\obj\Debug\net8.0\ProyectoFinal.Infraestructura.AssemblyInfo.cs
+C:\Fide\Programación Avanzada\ProyectoFinal\ProyectoFinal\ProyectoFinal.Infraestructura\obj\Debug\net8.0\ProyectoFinal.Infraestructura.csproj.CoreCompileInputs.cache
+C:\Fide\Programación Avanzada\ProyectoFinal\ProyectoFinal\ProyectoFinal.Infraestructura\bin\Debug\net8.0\ProyectoFinal.Infraestructura.deps.json
+C:\Fide\Programación Avanzada\ProyectoFinal\ProyectoFinal\ProyectoFinal.Infraestructura\bin\Debug\net8.0\ProyectoFinal.Infraestructura.dll
+C:\Fide\Programación Avanzada\ProyectoFinal\ProyectoFinal\ProyectoFinal.Infraestructura\bin\Debug\net8.0\ProyectoFinal.Infraestructura.pdb
+C:\Fide\Programación Avanzada\ProyectoFinal\ProyectoFinal\ProyectoFinal.Infraestructura\bin\Debug\net8.0\ProyectoFinal.Dominio.dll
+C:\Fide\Programación Avanzada\ProyectoFinal\ProyectoFinal\ProyectoFinal.Infraestructura\bin\Debug\net8.0\ProyectoFinal.Dominio.pdb
+C:\Fide\Programación Avanzada\ProyectoFinal\ProyectoFinal\ProyectoFinal.Infraestructura\obj\Debug\net8.0\Proyecto.7591F67A.Up2Date
+C:\Fide\Programación Avanzada\ProyectoFinal\ProyectoFinal\ProyectoFinal.Infraestructura\obj\Debug\net8.0\ProyectoFinal.Infraestructura.dll
+C:\Fide\Programación Avanzada\ProyectoFinal\ProyectoFinal\ProyectoFinal.Infraestructura\obj\Debug\net8.0\refint\ProyectoFinal.Infraestructura.dll
+C:\Fide\Programación Avanzada\ProyectoFinal\ProyectoFinal\ProyectoFinal.Infraestructura\obj\Debug\net8.0\ProyectoFinal.Infraestructura.pdb
+C:\Fide\Programación Avanzada\ProyectoFinal\ProyectoFinal\ProyectoFinal.Infraestructura\obj\Debug\net8.0\ref\ProyectoFinal.Infraestructura.dll
+C:\Fide\Programación Avanzada\ProyectoFinal\ProyectoFinal\ProyectoFinal.Infraestructura\obj\Debug\net8.0\ProyectoFinal.Infraestructura.sourcelink.json

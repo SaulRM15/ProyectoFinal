@@ -1,0 +1,12 @@
+C:\Fide\Programación Avanzada\ProyectoFinal\ProyectoFinal\ProyectoFinal.Dominio\bin\Debug\net8.0\ProyectoFinal.Dominio.deps.json
+C:\Fide\Programación Avanzada\ProyectoFinal\ProyectoFinal\ProyectoFinal.Dominio\bin\Debug\net8.0\ProyectoFinal.Dominio.dll
+C:\Fide\Programación Avanzada\ProyectoFinal\ProyectoFinal\ProyectoFinal.Dominio\bin\Debug\net8.0\ProyectoFinal.Dominio.pdb
+C:\Fide\Programación Avanzada\ProyectoFinal\ProyectoFinal\ProyectoFinal.Dominio\obj\Debug\net8.0\ProyectoFinal.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Fide\Programación Avanzada\ProyectoFinal\ProyectoFinal\ProyectoFinal.Dominio\obj\Debug\net8.0\ProyectoFinal.Dominio.AssemblyInfoInputs.cache
+C:\Fide\Programación Avanzada\ProyectoFinal\ProyectoFinal\ProyectoFinal.Dominio\obj\Debug\net8.0\ProyectoFinal.Dominio.AssemblyInfo.cs
+C:\Fide\Programación Avanzada\ProyectoFinal\ProyectoFinal\ProyectoFinal.Dominio\obj\Debug\net8.0\ProyectoFinal.Dominio.csproj.CoreCompileInputs.cache
+C:\Fide\Programación Avanzada\ProyectoFinal\ProyectoFinal\ProyectoFinal.Dominio\obj\Debug\net8.0\ProyectoFinal.Dominio.dll
+C:\Fide\Programación Avanzada\ProyectoFinal\ProyectoFinal\ProyectoFinal.Dominio\obj\Debug\net8.0\refint\ProyectoFinal.Dominio.dll
+C:\Fide\Programación Avanzada\ProyectoFinal\ProyectoFinal\ProyectoFinal.Dominio\obj\Debug\net8.0\ProyectoFinal.Dominio.pdb
+C:\Fide\Programación Avanzada\ProyectoFinal\ProyectoFinal\ProyectoFinal.Dominio\obj\Debug\net8.0\ref\ProyectoFinal.Dominio.dll
+C:\Fide\Programación Avanzada\ProyectoFinal\ProyectoFinal\ProyectoFinal.Dominio\obj\Debug\net8.0\ProyectoFinal.Dominio.sourcelink.json
