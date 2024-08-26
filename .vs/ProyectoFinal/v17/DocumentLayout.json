@@ -1,7 +1,104 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Fide\\Programaci\u00F3n Avanzada\\ProyectoFinal\\ProyectoFinal\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF9CD45F-2322-4602-A1C1-F53F216F3F14}|ProyectoFinal\\ProyectoFinal.Web.csproj|c:\\fide\\programaci\u00F3n avanzada\\proyectofinal\\proyectofinal\\proyectofinal\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF9CD45F-2322-4602-A1C1-F53F216F3F14}|ProyectoFinal\\ProyectoFinal.Web.csproj|solutionrelative:proyectofinal\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF9CD45F-2322-4602-A1C1-F53F216F3F14}|ProyectoFinal\\ProyectoFinal.Web.csproj|c:\\fide\\programaci\u00F3n avanzada\\proyectofinal\\proyectofinal\\proyectofinal\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF9CD45F-2322-4602-A1C1-F53F216F3F14}|ProyectoFinal\\ProyectoFinal.Web.csproj|solutionrelative:proyectofinal\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF9CD45F-2322-4602-A1C1-F53F216F3F14}|ProyectoFinal\\ProyectoFinal.Web.csproj|c:\\fide\\programaci\u00F3n avanzada\\proyectofinal\\proyectofinal\\proyectofinal\\views\\usuario\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF9CD45F-2322-4602-A1C1-F53F216F3F14}|ProyectoFinal\\ProyectoFinal.Web.csproj|solutionrelative:proyectofinal\\views\\usuario\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF9CD45F-2322-4602-A1C1-F53F216F3F14}|ProyectoFinal\\ProyectoFinal.Web.csproj|c:\\fide\\programaci\u00F3n avanzada\\proyectofinal\\proyectofinal\\proyectofinal\\views\\solicitud\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF9CD45F-2322-4602-A1C1-F53F216F3F14}|ProyectoFinal\\ProyectoFinal.Web.csproj|solutionrelative:proyectofinal\\views\\solicitud\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8974179-EF2B-4C58-9E02-9043A06C7AEC}|ProyectoFinal.Dominio\\ProyectoFinal.Dominio.csproj|c:\\fide\\programaci\u00F3n avanzada\\proyectofinal\\proyectofinal\\proyectofinal.dominio\\interfaces\\isolicitudrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8974179-EF2B-4C58-9E02-9043A06C7AEC}|ProyectoFinal.Dominio\\ProyectoFinal.Dominio.csproj|solutionrelative:proyectofinal.dominio\\interfaces\\isolicitudrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8974179-EF2B-4C58-9E02-9043A06C7AEC}|ProyectoFinal.Dominio\\ProyectoFinal.Dominio.csproj|c:\\fide\\programaci\u00F3n avanzada\\proyectofinal\\proyectofinal\\proyectofinal.dominio\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8974179-EF2B-4C58-9E02-9043A06C7AEC}|ProyectoFinal.Dominio\\ProyectoFinal.Dominio.csproj|solutionrelative:proyectofinal.dominio\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8974179-EF2B-4C58-9E02-9043A06C7AEC}|ProyectoFinal.Dominio\\ProyectoFinal.Dominio.csproj|c:\\fide\\programaci\u00F3n avanzada\\proyectofinal\\proyectofinal\\proyectofinal.dominio\\entidades\\solicitud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8974179-EF2B-4C58-9E02-9043A06C7AEC}|ProyectoFinal.Dominio\\ProyectoFinal.Dominio.csproj|solutionrelative:proyectofinal.dominio\\entidades\\solicitud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF9CD45F-2322-4602-A1C1-F53F216F3F14}|ProyectoFinal\\ProyectoFinal.Web.csproj|c:\\fide\\programaci\u00F3n avanzada\\proyectofinal\\proyectofinal\\proyectofinal\\controllers\\solicitudcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF9CD45F-2322-4602-A1C1-F53F216F3F14}|ProyectoFinal\\ProyectoFinal.Web.csproj|solutionrelative:proyectofinal\\controllers\\solicitudcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF9CD45F-2322-4602-A1C1-F53F216F3F14}|ProyectoFinal\\ProyectoFinal.Web.csproj|c:\\fide\\programaci\u00F3n avanzada\\proyectofinal\\proyectofinal\\proyectofinal\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF9CD45F-2322-4602-A1C1-F53F216F3F14}|ProyectoFinal\\ProyectoFinal.Web.csproj|solutionrelative:proyectofinal\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F97FFE5-994B-4DBD-AB0A-7D4B34165676}|ProyectoFinal.Application\\ProyectoFinal.Application.csproj|c:\\fide\\programaci\u00F3n avanzada\\proyectofinal\\proyectofinal\\proyectofinal.application\\servicios\\solicitudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F97FFE5-994B-4DBD-AB0A-7D4B34165676}|ProyectoFinal.Application\\ProyectoFinal.Application.csproj|solutionrelative:proyectofinal.application\\servicios\\solicitudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF9CD45F-2322-4602-A1C1-F53F216F3F14}|ProyectoFinal\\ProyectoFinal.Web.csproj|c:\\fide\\programaci\u00F3n avanzada\\proyectofinal\\proyectofinal\\proyectofinal\\views\\usuario\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF9CD45F-2322-4602-A1C1-F53F216F3F14}|ProyectoFinal\\ProyectoFinal.Web.csproj|solutionrelative:proyectofinal\\views\\usuario\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF9CD45F-2322-4602-A1C1-F53F216F3F14}|ProyectoFinal\\ProyectoFinal.Web.csproj|c:\\fide\\programaci\u00F3n avanzada\\proyectofinal\\proyectofinal\\proyectofinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF9CD45F-2322-4602-A1C1-F53F216F3F14}|ProyectoFinal\\ProyectoFinal.Web.csproj|solutionrelative:proyectofinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8974179-EF2B-4C58-9E02-9043A06C7AEC}|ProyectoFinal.Dominio\\ProyectoFinal.Dominio.csproj|c:\\fide\\programaci\u00F3n avanzada\\proyectofinal\\proyectofinal\\proyectofinal.dominio\\entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8974179-EF2B-4C58-9E02-9043A06C7AEC}|ProyectoFinal.Dominio\\ProyectoFinal.Dominio.csproj|solutionrelative:proyectofinal.dominio\\entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF9CD45F-2322-4602-A1C1-F53F216F3F14}|ProyectoFinal\\ProyectoFinal.Web.csproj|c:\\fide\\programaci\u00F3n avanzada\\proyectofinal\\proyectofinal\\proyectofinal\\views\\solicitud\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF9CD45F-2322-4602-A1C1-F53F216F3F14}|ProyectoFinal\\ProyectoFinal.Web.csproj|solutionrelative:proyectofinal\\views\\solicitud\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF9CD45F-2322-4602-A1C1-F53F216F3F14}|ProyectoFinal\\ProyectoFinal.Web.csproj|c:\\fide\\programaci\u00F3n avanzada\\proyectofinal\\proyectofinal\\proyectofinal\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EF9CD45F-2322-4602-A1C1-F53F216F3F14}|ProyectoFinal\\ProyectoFinal.Web.csproj|solutionrelative:proyectofinal\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF9CD45F-2322-4602-A1C1-F53F216F3F14}|ProyectoFinal\\ProyectoFinal.Web.csproj|c:\\fide\\programaci\u00F3n avanzada\\proyectofinal\\proyectofinal\\proyectofinal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EF9CD45F-2322-4602-A1C1-F53F216F3F14}|ProyectoFinal\\ProyectoFinal.Web.csproj|solutionrelative:proyectofinal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF9CD45F-2322-4602-A1C1-F53F216F3F14}|ProyectoFinal\\ProyectoFinal.Web.csproj|c:\\fide\\programaci\u00F3n avanzada\\proyectofinal\\proyectofinal\\proyectofinal\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF9CD45F-2322-4602-A1C1-F53F216F3F14}|ProyectoFinal\\ProyectoFinal.Web.csproj|solutionrelative:proyectofinal\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF9CD45F-2322-4602-A1C1-F53F216F3F14}|ProyectoFinal\\ProyectoFinal.Web.csproj|c:\\fide\\programaci\u00F3n avanzada\\proyectofinal\\proyectofinal\\proyectofinal\\views\\solicitud\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF9CD45F-2322-4602-A1C1-F53F216F3F14}|ProyectoFinal\\ProyectoFinal.Web.csproj|solutionrelative:proyectofinal\\views\\solicitud\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF9CD45F-2322-4602-A1C1-F53F216F3F14}|ProyectoFinal\\ProyectoFinal.Web.csproj|c:\\fide\\programaci\u00F3n avanzada\\proyectofinal\\proyectofinal\\proyectofinal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF9CD45F-2322-4602-A1C1-F53F216F3F14}|ProyectoFinal\\ProyectoFinal.Web.csproj|solutionrelative:proyectofinal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF9CD45F-2322-4602-A1C1-F53F216F3F14}|ProyectoFinal\\ProyectoFinal.Web.csproj|c:\\fide\\programaci\u00F3n avanzada\\proyectofinal\\proyectofinal\\proyectofinal\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF9CD45F-2322-4602-A1C1-F53F216F3F14}|ProyectoFinal\\ProyectoFinal.Web.csproj|solutionrelative:proyectofinal\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF9CD45F-2322-4602-A1C1-F53F216F3F14}|ProyectoFinal\\ProyectoFinal.Web.csproj|c:\\fide\\programaci\u00F3n avanzada\\proyectofinal\\proyectofinal\\proyectofinal\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF9CD45F-2322-4602-A1C1-F53F216F3F14}|ProyectoFinal\\ProyectoFinal.Web.csproj|solutionrelative:proyectofinal\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8974179-EF2B-4C58-9E02-9043A06C7AEC}|ProyectoFinal.Dominio\\ProyectoFinal.Dominio.csproj|c:\\fide\\programaci\u00F3n avanzada\\proyectofinal\\proyectofinal\\proyectofinal.dominio\\entidades\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8974179-EF2B-4C58-9E02-9043A06C7AEC}|ProyectoFinal.Dominio\\ProyectoFinal.Dominio.csproj|solutionrelative:proyectofinal.dominio\\entidades\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F97FFE5-994B-4DBD-AB0A-7D4B34165676}|ProyectoFinal.Application\\ProyectoFinal.Application.csproj|c:\\fide\\programaci\u00F3n avanzada\\proyectofinal\\proyectofinal\\proyectofinal.application\\servicios\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F97FFE5-994B-4DBD-AB0A-7D4B34165676}|ProyectoFinal.Application\\ProyectoFinal.Application.csproj|solutionrelative:proyectofinal.application\\servicios\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F97FFE5-994B-4DBD-AB0A-7D4B34165676}|ProyectoFinal.Application\\ProyectoFinal.Application.csproj|c:\\fide\\programaci\u00F3n avanzada\\proyectofinal\\proyectofinal\\proyectofinal.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F97FFE5-994B-4DBD-AB0A-7D4B34165676}|ProyectoFinal.Application\\ProyectoFinal.Application.csproj|solutionrelative:proyectofinal.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +106,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 316,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 15,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,6 +139,318 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Fide\\Programaci\u00F3n Avanzada\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\appsettings.json",
+              "RelativeDocumentMoniker": "ProyectoFinal\\appsettings.json",
+              "ToolTip": "C:\\Fide\\Programaci\u00F3n Avanzada\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\appsettings.json",
+              "RelativeToolTip": "ProyectoFinal\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-24T21:36:22.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Fide\\Programaci\u00F3n Avanzada\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Views\\Usuario\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Views\\Usuario\\Delete.cshtml",
+              "ToolTip": "C:\\Fide\\Programaci\u00F3n Avanzada\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Views\\Usuario\\Delete.cshtml",
+              "RelativeToolTip": "ProyectoFinal\\Views\\Usuario\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T22:21:00.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ISolicitudRepository.cs",
+              "DocumentMoniker": "C:\\Fide\\Programaci\u00F3n Avanzada\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal.Dominio\\Interfaces\\ISolicitudRepository.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal.Dominio\\Interfaces\\ISolicitudRepository.cs",
+              "ToolTip": "C:\\Fide\\Programaci\u00F3n Avanzada\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal.Dominio\\Interfaces\\ISolicitudRepository.cs",
+              "RelativeToolTip": "ProyectoFinal.Dominio\\Interfaces\\ISolicitudRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T21:58:22.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Solicitud.cs",
+              "DocumentMoniker": "C:\\Fide\\Programaci\u00F3n Avanzada\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal.Dominio\\Entidades\\Solicitud.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal.Dominio\\Entidades\\Solicitud.cs",
+              "ToolTip": "C:\\Fide\\Programaci\u00F3n Avanzada\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal.Dominio\\Entidades\\Solicitud.cs",
+              "RelativeToolTip": "ProyectoFinal.Dominio\\Entidades\\Solicitud.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T21:57:59.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Fide\\Programaci\u00F3n Avanzada\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal.Dominio\\Interfaces\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal.Dominio\\Interfaces\\IUsuarioRepository.cs",
+              "ToolTip": "C:\\Fide\\Programaci\u00F3n Avanzada\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal.Dominio\\Interfaces\\IUsuarioRepository.cs",
+              "RelativeToolTip": "ProyectoFinal.Dominio\\Interfaces\\IUsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T21:58:30.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Fide\\Programaci\u00F3n Avanzada\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Views\\Solicitud\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Views\\Solicitud\\Delete.cshtml",
+              "ToolTip": "C:\\Fide\\Programaci\u00F3n Avanzada\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Views\\Solicitud\\Delete.cshtml",
+              "RelativeToolTip": "ProyectoFinal\\Views\\Solicitud\\Delete.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T22:07:07.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Fide\\Programaci\u00F3n Avanzada\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Views\\Usuario\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Views\\Usuario\\Index.cshtml",
+              "ToolTip": "C:\\Fide\\Programaci\u00F3n Avanzada\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Views\\Usuario\\Index.cshtml",
+              "RelativeToolTip": "ProyectoFinal\\Views\\Usuario\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T22:15:03.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Fide\\Programaci\u00F3n Avanzada\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Fide\\Programaci\u00F3n Avanzada\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "ProyectoFinal\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T21:30:25.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SolicitudController.cs",
+              "DocumentMoniker": "C:\\Fide\\Programaci\u00F3n Avanzada\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Controllers\\SolicitudController.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Controllers\\SolicitudController.cs",
+              "ToolTip": "C:\\Fide\\Programaci\u00F3n Avanzada\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Controllers\\SolicitudController.cs",
+              "RelativeToolTip": "ProyectoFinal\\Controllers\\SolicitudController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T21:49:06.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SolicitudService.cs",
+              "DocumentMoniker": "C:\\Fide\\Programaci\u00F3n Avanzada\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal.Application\\Servicios\\SolicitudService.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal.Application\\Servicios\\SolicitudService.cs",
+              "ToolTip": "C:\\Fide\\Programaci\u00F3n Avanzada\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal.Application\\Servicios\\SolicitudService.cs",
+              "RelativeToolTip": "ProyectoFinal.Application\\Servicios\\SolicitudService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T21:57:04.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Fide\\Programaci\u00F3n Avanzada\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Program.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Program.cs",
+              "ToolTip": "C:\\Fide\\Programaci\u00F3n Avanzada\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Program.cs",
+              "RelativeToolTip": "ProyectoFinal\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAC0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T21:37:39.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Fide\\Programaci\u00F3n Avanzada\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ProyectoFinal\\appsettings.Development.json",
+              "ToolTip": "C:\\Fide\\Programaci\u00F3n Avanzada\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\appsettings.Development.json",
+              "RelativeToolTip": "ProyectoFinal\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-26T20:59:31.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Fide\\Programaci\u00F3n Avanzada\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Fide\\Programaci\u00F3n Avanzada\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ProyectoFinal\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T22:27:42.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Fide\\Programaci\u00F3n Avanzada\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Views\\Usuario\\Create.cshtml",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Views\\Usuario\\Create.cshtml",
+              "ToolTip": "C:\\Fide\\Programaci\u00F3n Avanzada\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Views\\Usuario\\Create.cshtml",
+              "RelativeToolTip": "ProyectoFinal\\Views\\Usuario\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T22:22:59.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Fide\\Programaci\u00F3n Avanzada\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Fide\\Programaci\u00F3n Avanzada\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ProyectoFinal\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T20:44:35.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Fide\\Programaci\u00F3n Avanzada\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal.Dominio\\Entidades\\Usuario.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal.Dominio\\Entidades\\Usuario.cs",
+              "ToolTip": "C:\\Fide\\Programaci\u00F3n Avanzada\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal.Dominio\\Entidades\\Usuario.cs",
+              "RelativeToolTip": "ProyectoFinal.Dominio\\Entidades\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T21:58:12.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Fide\\Programaci\u00F3n Avanzada\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Views\\Solicitud\\Create.cshtml",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Views\\Solicitud\\Create.cshtml",
+              "ToolTip": "C:\\Fide\\Programaci\u00F3n Avanzada\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Views\\Solicitud\\Create.cshtml",
+              "RelativeToolTip": "ProyectoFinal\\Views\\Solicitud\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T21:24:16.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Fide\\Programaci\u00F3n Avanzada\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Views\\Solicitud\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Views\\Solicitud\\Index.cshtml",
+              "ToolTip": "C:\\Fide\\Programaci\u00F3n Avanzada\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Views\\Solicitud\\Index.cshtml",
+              "RelativeToolTip": "ProyectoFinal\\Views\\Solicitud\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T22:13:59.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Fide\\Programaci\u00F3n Avanzada\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Fide\\Programaci\u00F3n Avanzada\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ProyectoFinal\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T20:44:48.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Fide\\Programaci\u00F3n Avanzada\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Fide\\Programaci\u00F3n Avanzada\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "ProyectoFinal\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T20:45:08.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Fide\\Programaci\u00F3n Avanzada\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Fide\\Programaci\u00F3n Avanzada\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ProyectoFinal\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T20:45:05.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Fide\\Programaci\u00F3n Avanzada\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal.Dominio\\Entidades\\Class1.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal.Dominio\\Entidades\\Class1.cs",
+              "ToolTip": "C:\\Fide\\Programaci\u00F3n Avanzada\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal.Dominio\\Entidades\\Class1.cs",
+              "RelativeToolTip": "ProyectoFinal.Dominio\\Entidades\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T21:57:48.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Fide\\Programaci\u00F3n Avanzada\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal.Application\\Servicios\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal.Application\\Servicios\\UsuarioService.cs",
+              "ToolTip": "C:\\Fide\\Programaci\u00F3n Avanzada\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal.Application\\Servicios\\UsuarioService.cs",
+              "RelativeToolTip": "ProyectoFinal.Application\\Servicios\\UsuarioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T21:57:34.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Fide\\Programaci\u00F3n Avanzada\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal.Application\\Class1.cs",
+              "ToolTip": "C:\\Fide\\Programaci\u00F3n Avanzada\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal.Application\\Class1.cs",
+              "RelativeToolTip": "ProyectoFinal.Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T21:52:45.804Z",
+              "EditorCaption": ""
             }
           ]
         }

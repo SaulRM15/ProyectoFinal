@@ -25,6 +25,22 @@
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
                         </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle text-dark" href="#" id="solicitudDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                Solicitudes
+                            </a>
+                            <ul class="dropdown-menu" aria-labelledby="solicitudDropdown">
+                                <li><a class="dropdown-item" asp-area="" asp-controller="Solicitud" asp-action="Create">Crear Solicitud</a></li>
+                            </ul>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle text-dark" href="#" id="usuarioDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                Usuarios
+                            </a>
+                            <ul class="dropdown-menu" aria-labelledby="usuarioDropdown">
+                                <li><a class="dropdown-item" asp-area="" asp-controller="Usuario" asp-action="Create">Crear Usuario</a></li>
+                            </ul>
+                        </li>
                     </ul>
                 </div>
             </div>

@@ -22,7 +22,7 @@
             Usuario Asignado
         </dt>
         <dd class="col-sm-10">
-            @Model.UsuarioAsignado.Nombre
+            @Model.UsuarioAsignado?.Nombre ?? "No asignado"
         </dd>
         <dt class="col-sm-2">
             Estado
@@ -32,7 +32,7 @@
         </dd>
     </dl>
 
-    <form asp-action="DeleteConfirmed">
+    <form asp-action="Delete" method="post">
         <input type="hidden" asp-for="Id" />
         <input type="submit" value="Eliminar" class="btn btn-danger" /> |
         <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
